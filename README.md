@@ -15,4 +15,4 @@ I also spent more time on authentication than expected, because I didn't really 
 
 The application connects to TMDB and displays the response in a frequently used RecyclerView with the required image and budget (if the budget is known). The user can search for movies, and also click on a search result for more details about it. The application's minimum SDK version is 21 (Android 5.0) and was written in Kotlin with Gradle build tool.
 
-The core of my solution was based on this article: https://dev.to/paulodhiambo/kotlin-and-retrofit-network-calls-2353
+The core of my solution was based on this article: https://dev.to/paulodhiambo/kotlin-and-retrofit-network-calls-2353. Obviously I modified it, and I also used some code from one of my previous project. I committed these in a separated commit.
