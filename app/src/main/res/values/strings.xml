@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SnapSoft HomeWork</string>
+    <string name="api_key">fcc41c30d01bfd3863a8829c73f51828</string>
+    <string name="budget">Budget:</string>
+    <string name="title">Title :</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
